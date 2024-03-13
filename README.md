@@ -28,4 +28,4 @@
 <img width="1512" alt="Screenshot 2024-03-13 at 12 53 43 PM" src="https://github.com/krishshah17/OSINT-Automation-Tool/assets/26605210/ea9d1251-6ac0-4585-b350-d115274963ae">
 
 ## Achievments
-### Won 3rd Place at CIDEcode, a Hackathon organized by DSCI in association with DSCI, CCITR and PES University
+### Won 3rd Place at CIDEcode, a Hackathon organized by DSCI in association with Infosys, CCITR and PES University
