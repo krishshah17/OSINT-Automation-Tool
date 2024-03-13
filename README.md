@@ -8,7 +8,7 @@
 - X-RapidAPI-Key
 - BITQUERY API KEY
 
-## Usage
+## API Routes
 - /test : to load the basic HTML page to see the working
 - /get-user-data/:email_id : get user data for the email_id associated with google account
 -  google-dork/cv/:first_name/:last_name ":"look for CV's of the target in public domain
@@ -19,6 +19,12 @@
 - /get-email-leak/:emailID ":"find what data associated with this email ID has been leaked and where
 - /get-bitcoin-trans/:address ":"find transaction history of specific crypto wallet address
 - /create-pdf ":"create a consolidated pdf of all generated data associated with this case. 
+
+## Usage 
+- Install Node.js
+- Install required packages
+- nodemon index.js
+- localhost:5001/test
 
 ## Achievments
 ### Won 3rd Place at CIDEcode, a Hackathon organized by DSCI in association with DSCI, CCITR and PES University
