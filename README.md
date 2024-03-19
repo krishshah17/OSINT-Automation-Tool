@@ -1,5 +1,5 @@
 # OSINT Automation Tool
- Backend for an OSINT Automation Tool built using Node.js and Pyton
+ Backend for an OSINT Automation Tool built using Node.js and Python
 
 ## Required API Keys
 - SERPAPI KEY
